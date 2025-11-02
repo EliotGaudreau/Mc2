@@ -1,0 +1,37 @@
+{
+	id: "cdff4f59-1004-4b71-bf2a-efaea986fa21"
+	type: "party"
+	owner: "b4c07268-96dd-4be7-88d7-b986f5c1f98b"
+	ranks: {
+		80ef6086-264a-458b-98c6-8290886b7f15: "ally"
+		d44b59ee-2e6b-488b-8c19-deb0eacc2706: "ally"
+		b4c07268-96dd-4be7-88d7-b986f5c1f98b: "owner"
+		78fc848e-8a06-4175-81fe-810734aadfae: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Elski's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1762033843588L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Elski\"}]}" }
+		{ from: "b4c07268-96dd-4be7-88d7-b986f5c1f98b", date: 1762034833487L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"antobar2016\"}]}" }
+		{ from: "b4c07268-96dd-4be7-88d7-b986f5c1f98b", date: 1762034833488L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Simon210406\"}]}" }
+		{ from: "b4c07268-96dd-4be7-88d7-b986f5c1f98b", date: 1762034833488L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"ABC1234643\"}]}" }
+	]
+	extra: { }
+}
