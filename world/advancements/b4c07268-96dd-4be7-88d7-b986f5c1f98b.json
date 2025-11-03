@@ -10617,9 +10617,708 @@
     },
     "done": false
   },
-  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-11-02 18:46:21 -0500"
+      "has_any_ingredient": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/stone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/granite_button_stonecutter": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/granite_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/building_blocks/block_of_blue_cheese": {
+    "criteria": {
+      "has_mushroom": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 20:36:56 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_witch_hazel": {
+    "criteria": {
+      "has_item": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-11-02 20:53:51 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-11-02 20:53:51 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 20:36:07 -0500",
+      "has_mushroom_stew": "2025-11-02 20:54:09 -0500",
+      "has_bowl": "2025-11-02 20:53:51 -0500",
+      "has_red_mushroom": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2025-11-02 20:53:51 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-11-02 20:53:51 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 20:36:07 -0500",
+      "has_mushroom_stew": "2025-11-02 20:54:09 -0500",
+      "has_red_mushroom": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:29:45 -0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/soy_milk": {
+    "criteria": {
+      "has_soy": "2025-11-02 20:47:44 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 20:36:56 -0500"
+    },
+    "done": false
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/soysauce": {
+    "criteria": {
+      "has_soy": "2025-11-02 20:47:44 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-11-02 20:31:46 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 20:36:56 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/rope_witch_hazel_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "incubation:recipes/food/scrambled_eggs": {
+    "criteria": {
+      "has_bowl": "2025-11-02 20:53:51 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
+    "criteria": {
+      "has_moss_carpet": "2025-11-02 20:46:49 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/tofu": {
+    "criteria": {
+      "has_soy": "2025-11-02 20:47:44 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-11-02 20:36:07 -0500",
+      "has_alt_item": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_iron_block": "2025-11-02 20:31:46 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/granite_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-11-02 20:29:45 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:55:30 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-11-02 20:36:07 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 20:36:07 -0500"
     },
     "done": false
   },

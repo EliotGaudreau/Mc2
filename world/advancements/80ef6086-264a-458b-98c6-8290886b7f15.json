@@ -1459,8 +1459,7 @@
   },
   "rats:recipes/tools/radius_stick": {
     "criteria": {
-      "has_stick": "2025-11-01 17:34:50 -0400",
-      "has_cheese": "2025-11-02 18:46:15 -0500"
+      "has_stick": "2025-11-01 17:34:50 -0400"
     },
     "done": false
   },
@@ -2161,8 +2160,7 @@
   },
   "rats:recipes/misc/plague_doctorate": {
     "criteria": {
-      "has_paper": "2025-11-01 17:37:03 -0400",
-      "has_essence": "2025-11-02 18:46:15 -0500"
+      "has_paper": "2025-11-01 17:37:03 -0400"
     },
     "done": false
   },
@@ -2203,7 +2201,6 @@
   },
   "rats:recipes/misc/rat_banner_pattern": {
     "criteria": {
-      "has_pelt": "2025-11-02 18:46:14 -0500",
       "has_paper": "2025-11-01 17:37:03 -0400"
     },
     "done": false
@@ -3255,7 +3252,6 @@
   "rats:recipes/building_blocks/rat_quarry": {
     "criteria": {
       "has_table": "2025-11-01 17:44:08 -0400",
-      "has_blu": "2025-11-02 19:25:01 -0500",
       "has_diamond": "2025-11-02 13:23:31 -0500"
     },
     "done": false
@@ -3365,8 +3361,7 @@
   },
   "rats:recipes/misc/dragon_wing": {
     "criteria": {
-      "has_leather": "2025-11-01 17:45:53 -0400",
-      "has_rod": "2025-11-02 18:56:51 -0500"
+      "has_leather": "2025-11-01 17:45:53 -0400"
     },
     "done": false
   },
@@ -3528,7 +3523,6 @@
       "minecraft:windswept_savanna": "2025-11-02 14:07:23 -0500",
       "minecraft:flower_forest": "2025-11-02 11:30:12 -0500",
       "minecraft:old_growth_birch_forest": "2025-11-02 12:01:52 -0500",
-      "minecraft:meadow": "2025-11-02 18:39:24 -0500",
       "minecraft:plains": "2025-11-01 17:51:00 -0400",
       "autumnity:autumnity:pumpkin_fields": "2025-11-02 11:37:00 -0500"
     },
@@ -3574,7 +3568,6 @@
     "criteria": {
       "minecraft:witch": "2025-11-01 19:21:33 -0400",
       "minecraft:cave_spider": "2025-11-02 11:57:37 -0500",
-      "minecraft:enderman": "2025-11-02 19:19:35 -0500",
       "minecraft:vex": "2025-11-02 11:36:00 -0500",
       "minecraft:skeleton": "2025-11-01 18:35:22 -0400",
       "minecraft:creeper": "2025-11-01 19:14:39 -0400",
@@ -3598,7 +3591,6 @@
       "minecraft:evoker": "2025-11-02 13:21:35 -0500",
       "minecraft:witch": "2025-11-01 19:21:33 -0400",
       "minecraft:cave_spider": "2025-11-02 11:57:37 -0500",
-      "minecraft:enderman": "2025-11-02 19:19:35 -0500",
       "minecraft:vex": "2025-11-02 11:36:00 -0500",
       "minecraft:zombie": "2025-11-01 17:49:14 -0400",
       "minecraft:drowned": "2025-11-01 18:59:30 -0400",
@@ -6029,8 +6021,7 @@
   "rats:recipes/misc/upgrades/pickpocket_upgrade": {
     "criteria": {
       "has_upgrade": "2025-11-01 20:10:01 -0400",
-      "has_emerald": "2025-11-01 18:37:28 -0400",
-      "has_paw": "2025-11-02 18:46:15 -0500"
+      "has_emerald": "2025-11-01 18:37:28 -0400"
     },
     "done": false
   },
@@ -7557,7 +7548,6 @@
   },
   "rats:recipes/tools/rat_flute": {
     "criteria": {
-      "has_cane": "2025-11-02 19:15:57 -0500",
       "has_iron": "2025-11-01 19:53:40 -0400"
     },
     "done": false
@@ -7654,8 +7644,7 @@
   },
   "rats:recipes/building_blocks/cursed_garbage": {
     "criteria": {
-      "has_garbage": "2025-11-01 19:56:55 -0400",
-      "has_essence": "2025-11-02 18:46:15 -0500"
+      "has_garbage": "2025-11-01 19:56:55 -0400"
     },
     "done": false
   },
@@ -7934,21 +7923,18 @@
   },
   "rats:recipes/misc/upgrades/sculked_upgrade": {
     "criteria": {
-      "has_upgrade": "2025-11-01 20:10:01 -0400",
-      "has_paw": "2025-11-02 18:46:15 -0500"
+      "has_upgrade": "2025-11-01 20:10:01 -0400"
     },
     "done": false
   },
   "rats:recipes/misc/upgrades/fisherman_upgrade": {
     "criteria": {
-      "has_upgrade": "2025-11-01 20:10:01 -0400",
-      "has_rod": "2025-11-02 18:19:52 -0500"
+      "has_upgrade": "2025-11-01 20:10:01 -0400"
     },
     "done": false
   },
   "rats:recipes/misc/upgrades/ender_upgrade": {
     "criteria": {
-      "has_pearl": "2025-11-02 19:14:08 -0500",
       "has_upgrade": "2025-11-01 20:10:01 -0400"
     },
     "done": false
@@ -7974,7 +7960,6 @@
   "rats:recipes/misc/upgrades/beast_mount_upgrade": {
     "criteria": {
       "has_upgrade": "2025-11-01 20:10:01 -0400",
-      "has_essence": "2025-11-02 18:46:15 -0500",
       "has_filth": "2025-11-02 11:14:29 -0500"
     },
     "done": false
@@ -8047,9 +8032,7 @@
   "rats:recipes/misc/upgrades/quarry_upgrade": {
     "criteria": {
       "has_upgrade": "2025-11-01 20:10:01 -0400",
-      "has_filth": "2025-11-02 11:14:29 -0500",
-      "has_paw": "2025-11-02 18:46:15 -0500",
-      "has_cheese": "2025-11-02 19:25:01 -0500"
+      "has_filth": "2025-11-02 11:14:29 -0500"
     },
     "done": false
   },
@@ -8315,8 +8298,7 @@
   },
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
-      "has_bottles": "2025-11-02 11:31:52 -0500",
-      "has_wheat_seeds": "2025-11-02 19:17:44 -0500"
+      "has_bottles": "2025-11-02 11:31:52 -0500"
     },
     "done": false
   },
@@ -8329,7 +8311,6 @@
   "rats:recipes/misc/purifying_liquid": {
     "criteria": {
       "has_bottle": "2025-11-02 11:31:52 -0500",
-      "has_essence": "2025-11-02 18:46:15 -0500",
       "has_diamond": "2025-11-02 13:23:31 -0500"
     },
     "done": false
@@ -9727,8 +9708,7 @@
   },
   "supplementaries:recipes/key": {
     "criteria": {
-      "has_gold_ingot": "2025-11-02 12:22:05 -0500",
-      "has_gold_nugget": "2025-11-02 18:55:28 -0500"
+      "has_gold_ingot": "2025-11-02 12:22:05 -0500"
     },
     "done": false
   },
@@ -9771,8 +9751,7 @@
   },
   "rats:recipes/combat/halo_hat": {
     "criteria": {
-      "has_ingot": "2025-11-02 12:22:05 -0500",
-      "has_nugget": "2025-11-02 18:55:28 -0500"
+      "has_ingot": "2025-11-02 12:22:05 -0500"
     },
     "done": false
   },
@@ -9958,8 +9937,7 @@
   },
   "rats:recipes/misc/upgrades/voodoo_upgrade": {
     "criteria": {
-      "has_totem": "2025-11-02 13:22:33 -0500",
-      "has_essence": "2025-11-02 18:46:15 -0500"
+      "has_totem": "2025-11-02 13:22:33 -0500"
     },
     "done": false
   },
@@ -10019,4 +9997,999 @@
   },
   "infinitybuttons:recipe/redstone/diamond_large_button": {
     "criteria": {
-      "h
+      "has_thing": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "charginggadgets:recipes/redstone/charging_station": {
+    "criteria": {
+      "has_diamonds": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "mininggadgets:recipes/misc/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/diamond_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/diamond": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-11-02 13:23:31 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 13:23:36 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 13:23:36 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-11-02 13:23:36 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/maple_roofs": {
+    "criteria": {
+      "has_planks": "2025-11-02 13:31:01 -0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-11-02 13:31:01 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/maple_furnitures": {
+    "criteria": {
+      "has_wood": "2025-11-02 13:31:01 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/maple_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 13:31:01 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 13:31:01 -0500"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-11-02 13:31:01 -0500"
+    },
+    "done": false
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-11-02 13:35:32 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_hay_block": {
+    "criteria": {
+      "has_hay_block": "2025-11-02 13:35:32 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-11-02 13:35:32 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-11-02 13:35:32 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-11-02 13:35:55 -0500"
+    },
+    "done": false
+  },
+  "biomancy:biomancy/cat_killer": {
+    "criteria": {
+      "has_killed_cat": "2025-11-02 13:38:46 -0500"
+    },
+    "done": false
+  },
+  "autumnity:recipes/decorations/snail_goo_block": {
+    "criteria": {
+      "has_snail_goo": "2025-11-02 13:38:58 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 13:38:59 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 13:38:59 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 13:43:39 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-11-02 13:44:14 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-11-02 13:46:04 -0500"
+    },
+    "done": false
+  },
+  "masquerader_mod:get_invited": {
+    "criteria": {
+      "requirement": "2025-11-02 13:48:02 -0500"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-11-02 13:48:33 -0500"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-11-02 13:49:53 -0500"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-11-02 13:50:09 -0500"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 13:50:09 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-11-02 13:51:29 -0500"
+    },
+    "done": false
+  },
+  "idas:witches_treestump": {
+    "criteria": {
+      "in_witches_treestump": "2025-11-02 14:08:20 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-11-02 14:08:49 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-11-02 14:08:49 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-11-02 14:09:08 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:13:39 -0500"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 14:13:39 -0500"
+    },
+    "done": false
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-11-02 14:42:10 -0500"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-11-02 14:46:11 -0500"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-11-02 14:51:20 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mighty_mail:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/birch_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/birch_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-02 14:56:24 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-11-02 14:57:48 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_mushrooms": {
+    "criteria": {
+      "has_mushrooms": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-11-02 15:06:11 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-11-02 15:06:40 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
