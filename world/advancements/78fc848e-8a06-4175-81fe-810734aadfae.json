@@ -1,7 +1,8 @@
 {
   "rats:recipes/misc/hammocks/rat_hammock_magenta": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -49,7 +50,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_brown": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -301,7 +303,9 @@
   },
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
-      "holy_water": "2025-11-02 13:20:58 -0500"
+      "holy_water": "2025-11-02 13:20:58 -0500",
+      "stick": "2025-11-02 18:46:19 -0500",
+      "planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -343,7 +347,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_cyan": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -557,7 +562,8 @@
   },
   "rats:recipes/tools/rat_whistle": {
     "criteria": {
-      "has_iron": "2025-11-02 13:20:58 -0500"
+      "has_iron": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -680,7 +686,8 @@
   },
   "rats:recipes/misc/upgrades/platter_upgrade": {
     "criteria": {
-      "has_iron": "2025-11-02 13:20:58 -0500"
+      "has_iron": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -704,7 +711,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_light_blue": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -716,7 +724,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_red": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -936,7 +945,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_light_gray": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -1202,7 +1212,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_black": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -1563,7 +1574,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_pink": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -1581,6 +1593,7 @@
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500",
       "has_iron_ingot": "2025-11-02 13:20:58 -0500"
     },
     "done": false
@@ -1793,7 +1806,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_gray": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -1908,7 +1922,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_orange": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -1916,7 +1931,8 @@
     "criteria": {
       "has_cobblestone": "2025-11-02 13:39:30 -0500",
       "has_shears": "2025-11-02 13:20:58 -0500",
-      "has_piston": "2025-11-02 13:20:58 -0500"
+      "has_piston": "2025-11-02 13:20:58 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -2084,7 +2100,8 @@
   },
   "supplementaries:recipes/faucet": {
     "criteria": {
-      "has_iron_ingot": "2025-11-02 13:20:58 -0500"
+      "has_iron_ingot": "2025-11-02 13:20:58 -0500",
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
     },
     "done": false
   },
@@ -2144,6 +2161,7 @@
   },
   "etched:recipes/decorations/radio": {
     "criteria": {
+      "has_copper": "2025-11-02 19:05:37 -0500",
       "has_iron": "2025-11-02 13:20:58 -0500"
     },
     "done": false
@@ -2489,6 +2507,7 @@
   },
   "supplementaries:recipes/lock_block": {
     "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500",
       "has_iron_ingot": "2025-11-02 13:20:58 -0500"
     },
     "done": false
@@ -2628,7 +2647,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_purple": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -2795,7 +2815,8 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
     },
     "done": false
   },
@@ -2826,7 +2847,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_blue": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -2851,7 +2873,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_lime": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -2989,7 +3012,8 @@
   "rats:recipes/misc/rat_wheel": {
     "criteria": {
       "has_bars": "2025-11-02 13:49:46 -0500",
-      "has_iron": "2025-11-02 13:20:58 -0500"
+      "has_iron": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -3135,7 +3159,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_green": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -3147,7 +3172,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_white": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -3198,7 +3224,8 @@
   },
   "rats:recipes/tools/rat_sack": {
     "criteria": {
-      "has_leather": "2025-11-02 13:20:58 -0500"
+      "has_leather": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -3259,7 +3286,8 @@
   },
   "vampirism:recipes/decorations/hunter/cross": {
     "criteria": {
-      "has_holy": "2025-11-02 13:20:58 -0500"
+      "has_holy": "2025-11-02 13:20:58 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -3307,7 +3335,8 @@
   },
   "rats:recipes/misc/hammocks/rat_hammock_yellow": {
     "criteria": {
-      "has_string": "2025-11-02 13:20:58 -0500"
+      "has_string": "2025-11-02 13:20:58 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
     },
     "done": false
   },
@@ -3401,7 +3430,8 @@
   "vampirism:recipes/decorations/general/vampire_rack": {
     "criteria": {
       "has_potion": "2025-11-02 13:51:33 -0500",
-      "has_fangs": "2025-11-02 13:20:58 -0500"
+      "has_fangs": "2025-11-02 13:20:58 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -3464,9 +3494,14 @@
     "criteria": {
       "biomeswevegone:sakura_grove": "2025-11-02 13:35:05 -0500",
       "biomeswevegone:temperate_grove": "2025-11-02 13:22:17 -0500",
+      "biomeswevegone:orchard": "2025-11-02 18:25:56 -0500",
       "biomeswevegone:weeping_witch_forest": "2025-11-02 15:25:07 -0500",
       "biomeswevegone:prairie": "2025-11-02 13:25:19 -0500",
+      "biomeswevegone:rose_fields": "2025-11-02 18:24:48 -0500",
       "biomeswevegone:aspen_boreal": "2025-11-02 15:24:53 -0500",
+      "biomeswevegone:dacite_ridges": "2025-11-02 18:25:39 -0500",
+      "biomeswevegone:dacite_shore": "2025-11-02 19:06:52 -0500",
+      "biomeswevegone:skyrise_vale": "2025-11-02 19:06:43 -0500",
       "biomeswevegone:allium_shrubland": "2025-11-02 13:21:00 -0500",
       "biomeswevegone:pumpkin_valley": "2025-11-02 13:35:25 -0500"
     },
@@ -3482,9 +3517,14 @@
     "criteria": {
       "biomeswevegone:sakura_grove": "2025-11-02 13:35:05 -0500",
       "biomeswevegone:temperate_grove": "2025-11-02 13:22:17 -0500",
+      "biomeswevegone:orchard": "2025-11-02 18:25:56 -0500",
       "biomeswevegone:weeping_witch_forest": "2025-11-02 15:25:07 -0500",
       "biomeswevegone:prairie": "2025-11-02 13:25:19 -0500",
+      "biomeswevegone:rose_fields": "2025-11-02 18:24:48 -0500",
       "biomeswevegone:aspen_boreal": "2025-11-02 15:24:53 -0500",
+      "biomeswevegone:dacite_ridges": "2025-11-02 18:25:39 -0500",
+      "biomeswevegone:dacite_shore": "2025-11-02 19:06:52 -0500",
+      "biomeswevegone:skyrise_vale": "2025-11-02 19:06:43 -0500",
       "biomeswevegone:allium_shrubland": "2025-11-02 13:21:00 -0500",
       "biomeswevegone:pumpkin_valley": "2025-11-02 13:35:25 -0500"
     },
@@ -3562,13 +3602,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-11-02 19:11:05 -0500",
       "minecraft:sunflower_plains": "2025-11-02 13:48:50 -0500",
+      "minecraft:cherry_grove": "2025-11-02 18:28:48 -0500",
+      "minecraft:birch_forest": "2025-11-02 18:40:22 -0500",
       "minecraft:beach": "2025-11-02 13:48:37 -0500",
+      "minecraft:dark_forest": "2025-11-02 19:25:08 -0500",
       "minecraft:river": "2025-11-02 13:26:26 -0500",
       "minecraft:cold_ocean": "2025-11-02 14:01:28 -0500",
+      "minecraft:forest": "2025-11-02 18:26:02 -0500",
+      "minecraft:lush_caves": "2025-11-02 19:17:44 -0500",
       "autumnity:autumnity:maple_forest": "2025-11-02 13:26:39 -0500",
       "minecraft:ocean": "2025-11-02 14:08:40 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-11-02 19:17:38 -0500",
       "minecraft:flower_forest": "2025-11-02 13:48:14 -0500",
+      "minecraft:old_growth_birch_forest": "2025-11-02 18:40:16 -0500",
       "minecraft:plains": "2025-11-02 13:49:01 -0500",
       "autumnity:autumnity:pumpkin_fields": "2025-11-02 13:25:43 -0500"
     },
@@ -3874,6 +3922,7 @@
   },
   "supplementaries:recipes/speaker_block": {
     "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500",
       "has_emerald": "2025-11-02 13:27:09 -0500"
     },
     "done": false
@@ -4088,7 +4137,8 @@
   "rats:recipes/misc/upgrades/dj_upgrade": {
     "criteria": {
       "has_disc": "2025-11-02 14:00:57 -0500",
-      "has_diamond": "2025-11-02 13:27:14 -0500"
+      "has_diamond": "2025-11-02 13:27:14 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -4395,7 +4445,9 @@
   },
   "supplementaries:recipes/turn_table": {
     "criteria": {
-      "has_cobblestone": "2025-11-02 13:39:30 -0500"
+      "has_cobblestone": "2025-11-02 13:39:30 -0500",
+      "minecraft:planks": "2025-11-02 18:43:33 -0500",
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
     },
     "done": false
   },
@@ -4455,7 +4507,8 @@
   },
   "biomeswevegone:recipes/building_blocks/rocky_stone": {
     "criteria": {
-      "has_cobblestone": "2025-11-02 13:39:30 -0500"
+      "has_cobblestone": "2025-11-02 13:39:30 -0500",
+      "has_stone": "2025-11-02 19:06:15 -0500"
     },
     "done": false
   },
@@ -4756,13 +4809,15 @@
   },
   "rats:recipes/misc/crimson_liquid": {
     "criteria": {
-      "has_bottle": "2025-11-02 13:51:33 -0500"
+      "has_bottle": "2025-11-02 13:51:33 -0500",
+      "has_fungus": "2025-11-02 19:15:36 -0500"
     },
     "done": false
   },
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
-      "has_bottles": "2025-11-02 13:51:33 -0500"
+      "has_bottles": "2025-11-02 13:51:33 -0500",
+      "has_wheat_seeds": "2025-11-02 18:33:17 -0500"
     },
     "done": false
   },
@@ -5114,7 +5169,9 @@
   },
   "rats:recipes/misc/upgrades/crafting_upgrade": {
     "criteria": {
-      "has_axe": "2025-11-02 14:03:40 -0500"
+      "has_axe": "2025-11-02 14:03:40 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -5415,7 +5472,8 @@
   },
   "vampirism:recipes/decorations/bat_cage": {
     "criteria": {
-      "has_gold": "2025-11-02 14:12:32 -0500"
+      "has_gold": "2025-11-02 14:12:32 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
     },
     "done": false
   },
@@ -6244,7 +6302,8 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-11-02 15:02:59 -0500",
-      "diamond_chestplate": "2025-11-02 14:44:59 -0500"
+      "diamond_chestplate": "2025-11-02 14:44:59 -0500",
+      "diamond_boots": "2025-11-02 18:58:31 -0500"
     },
     "done": false
   },
@@ -6256,7 +6315,8 @@
   },
   "supplementaries:recipes/cog_block": {
     "criteria": {
-      "has_redstone_block": "2025-11-02 14:45:13 -0500"
+      "has_redstone_block": "2025-11-02 14:45:13 -0500",
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
     },
     "done": false
   },
@@ -6341,7 +6401,8 @@
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_coal": "2025-11-02 14:48:25 -0500"
+      "has_coal": "2025-11-02 14:48:25 -0500",
+      "has_stick": "2025-11-02 18:46:19 -0500"
     },
     "done": false
   },
@@ -6425,7 +6486,8 @@
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_bowl": "2025-11-02 14:54:13 -0500"
+      "has_bowl": "2025-11-02 14:54:13 -0500",
+      "has_red_mushroom": "2025-11-02 19:15:36 -0500"
     },
     "done": false
   },
@@ -6467,8 +6529,11 @@
   },
   "tombstone:adventure/expert_tasting": {
     "criteria": {
+      "eat_lollipop_3": "2025-11-02 19:12:59 -0500",
       "eat_lollipop_4": "2025-11-02 15:26:56 -0500",
-      "eat_lollipop_2": "2025-11-02 15:10:49 -0500"
+      "eat_lollipop_1": "2025-11-02 19:19:59 -0500",
+      "eat_lollipop_2": "2025-11-02 15:10:49 -0500",
+      "eat_lollipop_0": "2025-11-02 19:02:40 -0500"
     },
     "done": false
   },
@@ -6630,21 +6695,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-11-02 15:29:09 -0500"
-    },
-    "done": false
-  },
-  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
-    "criteria": {
-      "has_raw_gold": "2025-11-02 15:29:09 -0500"
-    },
-    "done": false
-  },
   "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-11-02 15:23:48 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-11-02 15:27:40 -0500"
     },
     "done": false
   },
@@ -6654,9 +6713,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_iron_backpack": "2025-11-02 15:27:40 -0500"
+      "has_raw_gold": "2025-11-02 15:29:09 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-11-02 15:29:09 -0500"
     },
     "done": false
   },
@@ -6683,6 +6748,2358 @@
       "traded": "2025-11-02 15:31:18 -0500"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/become_hunter": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/technology": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/cobbled_deepslate": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/max_lord": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "xercapaint:recipes/item_easel": {
+    "criteria": {
+      "has_item": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-02 18:34:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chimney": {
+    "criteria": {
+      "has_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/stone_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-11-02 18:38:00 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_seeds": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/tools/radius_stick": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
+    "criteria": {
+      "has_small_flowers": "2025-11-02 18:29:44 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/magenta_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/wood_gear": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_witch_hazel": {
+    "criteria": {
+      "has_item": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_chimney": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-11-02 18:29:44 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/green_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/spruce_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/tools/patrol_stick": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-11-02 19:01:11 -0500"
+    },
+    "done": false
+  },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "convenientcurioscontainer:recipes/curios_container": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_deepslate_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_sign": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/rooted_dirt": {
+    "criteria": {
+      "has_rooted_dirt": "2025-11-02 19:05:53 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/decorations/air_raid_siren": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-11-02 19:02:07 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:18:42 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "faction": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/lime_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/misc/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-11-02 19:12:24 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_roofs": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:45:46 -0500"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "immersive_weathering:recipes/deepslate_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-11-02 19:12:24 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/purple_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
+    "criteria": {
+      "has_item": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_bookshelf": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_ingot": {
+    "criteria": {
+      "has_zinc_ingot": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-11-02 18:41:07 -0500"
+    },
+    "done": true
+  },
+  "champions:kill_a_champion": {
+    "criteria": {
+      "kill_a_champion": "2025-11-02 18:30:45 -0500"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-11-02 19:06:15 -0500"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/orange_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-11-02 19:06:15 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "goety:goety/kill_a_warlock": {
+    "criteria": {
+      "kill_a_warlock": "2025-11-02 19:00:44 -0500"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_dirt": {
+    "criteria": {
+      "has_dirt": "2025-11-02 19:05:53 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": true
+  },
+  "compactmachines:recipes/building_blocks/wall": {
+    "criteria": {
+      "picked_up_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:45:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/brown_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "littlelogistics:recipes/transportation/barge": {
+    "criteria": {
+      "has_item": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/misc/tables/pattern": {
+    "criteria": {
+      "has_item": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/crimson_fungus": {
+    "criteria": {
+      "has_crimson_fungus": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "bagofholding:recipes/tools/leather_bag_of_holding": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:45:46 -0500"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-11-02 19:04:58 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "delightful:recipes/knives/zinc_knife": {
+    "criteria": {
+      "has_ingots/zinc": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/decorations/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-11-02 18:38:00 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/black_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_crimson_fungus": {
+    "criteria": {
+      "has_crimson_fungus": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_ingots/nickel": "2025-11-02 19:04:58 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "immersive_melodies:misc/instruments": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/gauge": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "goety:goety/kill_a_wraith": {
+    "criteria": {
+      "kill_a_wraith": "2025-11-02 18:26:07 -0500"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_slab": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_planks": {
+    "criteria": {
+      "has_log": "2025-11-02 18:45:46 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-11-02 18:29:44 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-11-02 19:18:42 -0500"
+    },
+    "done": false
+  },
+  "delightful:recipes/food/cooking/glow_jam_jar": {
+    "criteria": {
+      "has_glow_berries": "2025-11-02 19:18:42 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/rope_witch_hazel_bridge": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2025-11-02 19:13:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-11-02 19:05:37 -0500"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_furnitures": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:45:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_door": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "mcwbyg:recipes/witch_hazel_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500",
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/building_blocks/block_of_cheese": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-11-02 19:18:42 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "enderio:recipes/misc/wood_gear_corner": {
+    "criteria": {
+      "has_ingredient": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-11-02 19:01:07 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/food/chef/string_cheese": {
+    "criteria": {
+      "has_input": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_crafting_table": {
+    "criteria": {
+      "has_witch_hazel_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "mighty_mail:recipes/decorations/spruce_mail_box": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/gardener_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500",
+      "has_flower": "2025-11-02 18:29:44 -0500"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500",
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "rats:recipes/tools/cheese_stick": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500",
+      "has_cheese": "2025-11-02 18:24:29 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
+    "criteria": {
+      "has_seeds": "2025-11-02 18:33:17 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/misc/shapetool": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/stone_button_stonecutter": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/decorations/witch_hazel_fence": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_button": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/witch_hazel_wood": {
+    "criteria": {
+      "has_log": "2025-11-02 18:45:46 -0500"
+    },
+    "done": false
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/oxidized_copper_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:04 -0500"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-11-02 19:15:36 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "alekiships:recipes/crafting/crafting/oar": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/spruce_large_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-11-02 18:46:52 -0500"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-11-02 18:46:19 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-11-02 19:01:11 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-11-02 19:06:15 -0500"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-11-02 18:48:41 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/redstone/witch_hazel_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:50:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-11-02 18:43:48 -0500"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-11-02 19:05:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:48:57 -0500"
+    },
+    "done": false
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2025-11-02 18:34:35 -0500"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/oxidized_copper_button": {
+    "criteria": {
+      "has_thing": "2025-11-02 19:05:37 -0500"
+    },
+    "done": false
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-11-02 18:43:33 -0500"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
